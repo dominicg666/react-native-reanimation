@@ -21,5 +21,5 @@ This project aims to be a strong foundation for react-native applications. It pr
 
 ## Demo
 
-![Flat List](https://github.com/dominicg666/react-native-reanimation/blob/main/demo/flatlistOne.gif)
+![FlatList](https://github.com/dominicg666/react-native-reanimation/blob/main/demo/flatlistOne.gif | width=200)
 
